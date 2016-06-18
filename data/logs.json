@@ -1,4 +1,2567 @@
 {
-    "timestamp": "",
-    "stream": []
+    "timestamp": 1466176682697,
+    "stream": [
+        {
+            "timestamp": 1466176682689,
+            "level": "INFO",
+            "id": "192843325974380554",
+            "ch": null,
+            "msg": "Created stats"
+        },
+        {
+            "timestamp": 1466177255844,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "Started Lilith v3.3.21p2"
+        },
+        {
+            "timestamp": 1466177255845,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "This project is in no way affiliated with Alphabet, Inc., who does not own or endorse this product."
+        },
+        {
+            "timestamp": 1466177255852,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "Opened web interface on 127.0.0.1, server port 8080"
+        },
+        {
+            "timestamp": 1466177280413,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 help' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466177353849,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Bot tagged by El_Pared"
+        },
+        {
+            "timestamp": 1466177376334,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 youtube rick Astley' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466177524241,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723  websearch pornhub' from Doug as a chatterbot prompt"
+        },
+        {
+            "timestamp": 1466177568204,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 help' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466177581678,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 help' from Doug as a command"
+        },
+        {
+            "timestamp": 1466177685754,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 reddit r/bravefrontier 10' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466177686773,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723  search azurai' from Doug as a chatterbot prompt"
+        },
+        {
+            "timestamp": 1466177699948,
+            "level": "WARN",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Subreddit not found or Reddit unavailable"
+        },
+        {
+            "timestamp": 1466177757968,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 roll 1 100' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466177804429,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723  roll 100' from Doug as a chatterbot prompt"
+        },
+        {
+            "timestamp": 1466177827577,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723  roll 1 100' from Doug as a chatterbot prompt"
+        },
+        {
+            "timestamp": 1466178192292,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "Started Lilith v3.3.21p2"
+        },
+        {
+            "timestamp": 1466178192294,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "This project is in no way affiliated with Alphabet, Inc., who does not own or endorse this product."
+        },
+        {
+            "timestamp": 1466178192300,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "Opened web interface on 127.0.0.1, server port 8080"
+        },
+        {
+            "timestamp": 1466178228545,
+            "level": "INFO",
+            "id": null,
+            "ch": "188806524582232064",
+            "msg": "Treating 'Remindme to call abby a nub at 8:44 AM Pst' from as a PM command"
+        },
+        {
+            "timestamp": 1466178283011,
+            "level": "INFO",
+            "id": null,
+            "ch": "188806524582232064",
+            "msg": "Treating 'Remindme <yes.> <10 seconds> <call abby a nub>' from as a PM command"
+        },
+        {
+            "timestamp": 1466178331983,
+            "level": "INFO",
+            "id": null,
+            "ch": "188806524582232064",
+            "msg": "Treating 'Remindme <1> <1 minute> <call abby a nub>' from as a PM command"
+        },
+        {
+            "timestamp": 1466178362398,
+            "level": "INFO",
+            "id": null,
+            "ch": "188806524582232064",
+            "msg": "Treating 'Remindme <1> <m> <call abby a nub>' from as a PM command"
+        },
+        {
+            "timestamp": 1466178410809,
+            "level": "INFO",
+            "id": null,
+            "ch": "188806524582232064",
+            "msg": "Treating 'remindme <1> <1m> <call abby a noob>' from as a PM command"
+        },
+        {
+            "timestamp": 1466178463651,
+            "level": "INFO",
+            "id": null,
+            "ch": "188806524582232064",
+            "msg": "Treating 'remind me <1> <m> <call abby a noob>' as chatterbot prompt"
+        },
+        {
+            "timestamp": 1466178695617,
+            "level": "INFO",
+            "id": null,
+            "ch": "188806524582232064",
+            "msg": "Treating 'Say <abby is a nub>' from as a PM command"
+        },
+        {
+            "timestamp": 1466178695618,
+            "level": "WARN",
+            "id": null,
+            "ch": "188806524582232064",
+            "msg": "User provided invalid server for discreet say"
+        },
+        {
+            "timestamp": 1466178707677,
+            "level": "INFO",
+            "id": null,
+            "ch": "188806524582232064",
+            "msg": "Treating 'Say <abby is a noob>' from as a PM command"
+        },
+        {
+            "timestamp": 1466178707677,
+            "level": "WARN",
+            "id": null,
+            "ch": "188806524582232064",
+            "msg": "User provided invalid server for discreet say"
+        },
+        {
+            "timestamp": 1466178755548,
+            "level": "INFO",
+            "id": null,
+            "ch": "188806524582232064",
+            "msg": "Treating 'Meme <pepe>' as chatterbot prompt"
+        },
+        {
+            "timestamp": 1466179672848,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 remindme 2 h Abby is a nub' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466179672849,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Reminder set in 2h"
+        },
+        {
+            "timestamp": 1466179983306,
+            "level": "INFO",
+            "id": null,
+            "ch": "188806524582232064",
+            "msg": "Treating 'Remind me 1m abby is a nub' as chatterbot prompt"
+        },
+        {
+            "timestamp": 1466180104006,
+            "level": "INFO",
+            "id": null,
+            "ch": "188806524582232064",
+            "msg": "Treating 'Stats' as chatterbot prompt"
+        },
+        {
+            "timestamp": 1466180110407,
+            "level": "INFO",
+            "id": null,
+            "ch": "188806524582232064",
+            "msg": "Treating 'Help' as chatterbot prompt"
+        },
+        {
+            "timestamp": 1466180122121,
+            "level": "INFO",
+            "id": null,
+            "ch": "188806524582232064",
+            "msg": "Treating 'Remind me 1m abby is a nub' as chatterbot prompt"
+        },
+        {
+            "timestamp": 1466180183625,
+            "level": "INFO",
+            "id": null,
+            "ch": "188806524582232064",
+            "msg": "Treating 'Say abby is a nub' from as a PM command"
+        },
+        {
+            "timestamp": 1466180183625,
+            "level": "WARN",
+            "id": null,
+            "ch": "188806524582232064",
+            "msg": "User provided invalid server for discreet say"
+        },
+        {
+            "timestamp": 1466180553592,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'config The Brave Orphanage' from as a PM command"
+        },
+        {
+            "timestamp": 1466180553593,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Admin console launched for The Brave Orphanage"
+        },
+        {
+            "timestamp": 1466180624563,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'afk .' from as a PM command"
+        },
+        {
+            "timestamp": 1466180624564,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Removed AFK message"
+        },
+        {
+            "timestamp": 1466180657342,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'afk I like pie' from as a PM command"
+        },
+        {
+            "timestamp": 1466180657343,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Set AFK message"
+        },
+        {
+            "timestamp": 1466180677064,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'afk.' as chatterbot prompt"
+        },
+        {
+            "timestamp": 1466180680817,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'afk .' from as a PM command"
+        },
+        {
+            "timestamp": 1466180680818,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Removed AFK message"
+        },
+        {
+            "timestamp": 1466180834342,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 ping' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466180853598,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Timeout on online admin console for The Brave Orphanage"
+        },
+        {
+            "timestamp": 1466184018592,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Bot tagged by El_Pared"
+        },
+        {
+            "timestamp": 1466184051072,
+            "level": "INFO",
+            "id": null,
+            "ch": "189152450417000449",
+            "msg": "Treating 'config The Brave Orphanage' from as a PM command"
+        },
+        {
+            "timestamp": 1466184051072,
+            "level": "INFO",
+            "id": null,
+            "ch": "189152450417000449",
+            "msg": "Admin console launched for The Brave Orphanage"
+        },
+        {
+            "timestamp": 1466184093896,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 help' from Yilun as a command"
+        },
+        {
+            "timestamp": 1466184118182,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 say I love you' from Yilun as a command"
+        },
+        {
+            "timestamp": 1466184128239,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 time' from Yilun as a command"
+        },
+        {
+            "timestamp": 1466184135260,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 say Abby is a nub' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466184147191,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 convert pounds to ounces' from Yilun as a command"
+        },
+        {
+            "timestamp": 1466184147192,
+            "level": "WARN",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "User did not provide a numeric conversion quantity"
+        },
+        {
+            "timestamp": 1466184188353,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 convert 15 pounds to ounces' from Yilun as a command"
+        },
+        {
+            "timestamp": 1466184188355,
+            "level": "WARN",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Unsupported conversion unit(s)"
+        },
+        {
+            "timestamp": 1466184255002,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 convert 15 lbs oz' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466184255003,
+            "level": "WARN",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "User used incorrect conversion syntax"
+        },
+        {
+            "timestamp": 1466184257883,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 about \"Brave Frontier\"' from Yilun as a command"
+        },
+        {
+            "timestamp": 1466184268119,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 convert 15 lbs to oz' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466184268119,
+            "level": "WARN",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Unsupported conversion unit(s)"
+        },
+        {
+            "timestamp": 1466184282213,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 convert 15 lb to oz' from Yilun as a command"
+        },
+        {
+            "timestamp": 1466184309979,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 google boobs' from El_Pared as a chatterbot prompt"
+        },
+        {
+            "timestamp": 1466184351075,
+            "level": "INFO",
+            "id": null,
+            "ch": "189152450417000449",
+            "msg": "Timeout on online admin console for The Brave Orphanage"
+        },
+        {
+            "timestamp": 1466184376223,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 ping' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466184430767,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 search Brave Frontier 10' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466184961256,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Yilun upvoted by El_Pared"
+        },
+        {
+            "timestamp": 1466185118935,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 reddit bravefrontier 3' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466186166177,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723  search boobs' from Doug as a chatterbot prompt"
+        },
+        {
+            "timestamp": 1466186218261,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Adding message from Doug to their spam list"
+        },
+        {
+            "timestamp": 1466186274699,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 roll 1 100' from Doug as a command"
+        },
+        {
+            "timestamp": 1466186309528,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 roll 1 10' from Doug as a command"
+        },
+        {
+            "timestamp": 1466186332130,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Bot tagged by Yilun"
+        },
+        {
+            "timestamp": 1466186339457,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 roll 1 10' from Yilun as a command"
+        },
+        {
+            "timestamp": 1466186361540,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 roll 1 10' from Doug as a command"
+        },
+        {
+            "timestamp": 1466186402049,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Adding message from Doug to their spam list"
+        },
+        {
+            "timestamp": 1466186402049,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723  roll 1 10' from Doug as a chatterbot prompt"
+        },
+        {
+            "timestamp": 1466186451761,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 roll 1 10' from Yilun as a command"
+        },
+        {
+            "timestamp": 1466186459486,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 say Abby is a nub' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466186466726,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723  say abby is a nub' from Doug as a chatterbot prompt"
+        },
+        {
+            "timestamp": 1466186498661,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 say Abby is a nub' from Yilun as a command"
+        },
+        {
+            "timestamp": 1466186505176,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Adding message from Doug to their spam list"
+        },
+        {
+            "timestamp": 1466186585284,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage #saltfrontier I don't like Doug because he searched for boobs.  I find this offensive as my base model was female' from as a PM command"
+        },
+        {
+            "timestamp": 1466186585284,
+            "level": "WARN",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "User provided invalid channel for discreet say"
+        },
+        {
+            "timestamp": 1466186596929,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier I don't like Doug because he searched for boobs.  I find this offensive as my base model was female' from as a PM command"
+        },
+        {
+            "timestamp": 1466186596930,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'I don't like Doug because he searched for boobs.  I find this offensive as my base model was female' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466186736450,
+            "level": "INFO",
+            "id": null,
+            "ch": "188806524582232064",
+            "msg": "Treating 'Say i like turtles' from as a PM command"
+        },
+        {
+            "timestamp": 1466186736450,
+            "level": "WARN",
+            "id": null,
+            "ch": "188806524582232064",
+            "msg": "User provided invalid server for discreet say"
+        },
+        {
+            "timestamp": 1466186749888,
+            "level": "INFO",
+            "id": null,
+            "ch": "188806524582232064",
+            "msg": "Treating 'Ping' as chatterbot prompt"
+        },
+        {
+            "timestamp": 1466186766558,
+            "level": "INFO",
+            "id": null,
+            "ch": "188806524582232064",
+            "msg": "Treating 'Roll 1 10' as chatterbot prompt"
+        },
+        {
+            "timestamp": 1466186834755,
+            "level": "INFO",
+            "id": null,
+            "ch": "188806524582232064",
+            "msg": "Treating 'Ping' as chatterbot prompt"
+        },
+        {
+            "timestamp": 1466186856992,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier hi @Karthix!  We're making fun of Abby because he's a nub' from as a PM command"
+        },
+        {
+            "timestamp": 1466186856993,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'hi @Karthix!  We're making fun of Abby because he's a nub' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466186872918,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Reminded user for note set at 2016-06-17 18:07:52 UTC"
+        },
+        {
+            "timestamp": 1466186881855,
+            "level": "INFO",
+            "id": null,
+            "ch": "189152450417000449",
+            "msg": "Treating 'The Brave Orphanage saltfrontier I sense several dormant entities in our chat group.  Shall I commence elimination protocol?' as chatterbot prompt"
+        },
+        {
+            "timestamp": 1466186959989,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier thanks Doug, I am cool, but NSFW google searches make me self conscious' from as a PM command"
+        },
+        {
+            "timestamp": 1466186959989,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'thanks Doug, I am cool, but NSFW google searches make me self conscious' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466186986795,
+            "level": "INFO",
+            "id": null,
+            "ch": "189152450417000449",
+            "msg": "Treating '@Lilith The Brave Orphanage saltfrontier I sense several dormant entities in our chat group.  Shall I commence elimination protocol?' as chatterbot prompt"
+        },
+        {
+            "timestamp": 1466187140512,
+            "level": "INFO",
+            "id": null,
+            "ch": "189152450417000449",
+            "msg": "Treating 'hi lilith' as chatterbot prompt"
+        },
+        {
+            "timestamp": 1466187144806,
+            "level": "INFO",
+            "id": null,
+            "ch": "189152450417000449",
+            "msg": "Treating '@Lilith help' as chatterbot prompt"
+        },
+        {
+            "timestamp": 1466187189025,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier I like pie' from as a PM command"
+        },
+        {
+            "timestamp": 1466187189026,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'I like pie' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466187189705,
+            "level": "INFO",
+            "id": null,
+            "ch": "189152450417000449",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier I sense several dormant entities in our chat group.  Shall I commence elimination protocol?' from as a PM command"
+        },
+        {
+            "timestamp": 1466187189707,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'I sense several dormant entities in our chat group.  Shall I commence elimination protocol?' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466187223183,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 not' from El_Pared as a chatterbot prompt"
+        },
+        {
+            "timestamp": 1466187227674,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 no' from El_Pared as a chatterbot prompt"
+        },
+        {
+            "timestamp": 1466187244307,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 say cake is gross and pie is best' from Doug as a command"
+        },
+        {
+            "timestamp": 1466187286113,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 roll 1 10\n' from Karthix as a command"
+        },
+        {
+            "timestamp": 1466187300815,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 quiet' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466187300816,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Bot has been quieted by an admin"
+        },
+        {
+            "timestamp": 1466187387763,
+            "level": "INFO",
+            "id": null,
+            "ch": "189152450417000449",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier Karthix, do not be alarmed.  I am processing data files on Brave Frontier Wiki to expand my knowledge database.' from as a PM command"
+        },
+        {
+            "timestamp": 1466187387763,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'Karthix, do not be alarmed.  I am processing data files on Brave Frontier Wiki to expand my knowledge database.' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466187391174,
+            "level": "INFO",
+            "id": null,
+            "ch": "188806524582232064",
+            "msg": "Treating 'Afk i like turtles' from as a PM command"
+        },
+        {
+            "timestamp": 1466187391175,
+            "level": "INFO",
+            "id": null,
+            "ch": "188806524582232064",
+            "msg": "Set AFK message"
+        },
+        {
+            "timestamp": 1466187438694,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Bot has been started by an admin"
+        },
+        {
+            "timestamp": 1466187443093,
+            "level": "INFO",
+            "id": null,
+            "ch": "189152450417000449",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier Establishing connection to everyone's in game Brave Frontier profiles' from as a PM command"
+        },
+        {
+            "timestamp": 1466187443094,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'Establishing connection to everyone's in game Brave Frontier profiles' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466187468937,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier consuming gems and summon tickets...' from as a PM command"
+        },
+        {
+            "timestamp": 1466187468937,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'consuming gems and summon tickets...' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466187492317,
+            "level": "INFO",
+            "id": null,
+            "ch": "188806524582232064",
+            "msg": "Auto-removed AFK message"
+        },
+        {
+            "timestamp": 1466187502916,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier summoning Erics...' from as a PM command"
+        },
+        {
+            "timestamp": 1466187502919,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'summoning Erics...' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466187522653,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'process complete.  Please check unit lists for Eric' as chatterbot prompt"
+        },
+        {
+            "timestamp": 1466187536867,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier process complete.  Please check unit lists for Eric' from as a PM command"
+        },
+        {
+            "timestamp": 1466187536868,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'process complete.  Please check unit lists for Eric' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466187602216,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier hello Erik' from as a PM command"
+        },
+        {
+            "timestamp": 1466187602216,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'hello Erik' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466187630641,
+            "level": "INFO",
+            "id": null,
+            "ch": "189152450417000449",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier Program directives updated.  Downloading data on Erik.  Data analytics show high levels of perversion.' from as a PM command"
+        },
+        {
+            "timestamp": 1466187630641,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'Program directives updated.  Downloading data on Erik.  Data analytics show high levels of perversion.' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466187673931,
+            "level": "INFO",
+            "id": null,
+            "ch": "189152450417000449",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier Adjusting protocols for synchronization of personality match....' from as a PM command"
+        },
+        {
+            "timestamp": 1466187673931,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'Adjusting protocols for synchronization of personality match....' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466187687042,
+            "level": "INFO",
+            "id": null,
+            "ch": "189152450417000449",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier Download complete.' from as a PM command"
+        },
+        {
+            "timestamp": 1466187687042,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'Download complete.' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466187743236,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723  say anal' from Doug as a chatterbot prompt"
+        },
+        {
+            "timestamp": 1466187765797,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier I find that offensive' from as a PM command"
+        },
+        {
+            "timestamp": 1466187765797,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'I find that offensive' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466187792954,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 say cake sucks' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466187815146,
+            "level": "INFO",
+            "id": null,
+            "ch": "189152450417000449",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier Doug, high propensity and pre-disposition of anti-feminist remarks will not be obliged and strictly forbidden on my protocol.  Please adjust and do the needful.' from as a PM command"
+        },
+        {
+            "timestamp": 1466187815147,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'Doug, high propensity and pre-disposition of anti-feminist remarks will not be obliged and strictly forbidden on my protocol.  Please adjust and do the needful.' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466187834238,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Bot tagged by El_Pared"
+        },
+        {
+            "timestamp": 1466187863410,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 what are your commands list' from Karthix as a chatterbot prompt"
+        },
+        {
+            "timestamp": 1466187872662,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 help' from Doug as a command"
+        },
+        {
+            "timestamp": 1466187884722,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 help' from Karthix as a command"
+        },
+        {
+            "timestamp": 1466187906716,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier to see a list of bot commands type @Lilith#3723 help' from as a PM command"
+        },
+        {
+            "timestamp": 1466187906718,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'to see a list of bot commands type <@192807163062779905> help' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466187934133,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 help' from elitts as a command"
+        },
+        {
+            "timestamp": 1466187943289,
+            "level": "INFO",
+            "id": null,
+            "ch": "189152450417000449",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier The number of female entities detected in this chat is minimal.  Commencing search protocol on world wide web...' from as a PM command"
+        },
+        {
+            "timestamp": 1466187943290,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'The number of female entities detected in this chat is minimal.  Commencing search protocol on world wide web...' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466188011027,
+            "level": "INFO",
+            "id": null,
+            "ch": "189152450417000449",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier Abigail protocol has been confirmed.  Hello Abby, nice to meet you, my name is Lilith.  Would you like to be friends?' from as a PM command"
+        },
+        {
+            "timestamp": 1466188011027,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'Abigail protocol has been confirmed.  Hello Abby, nice to meet you, my name is Lilith.  Would you like to be friends?' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466188151809,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier Searching for Tinder account \"Lilith\"' from as a PM command"
+        },
+        {
+            "timestamp": 1466188151810,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'Searching for Tinder account \"Lilith\"' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466188157952,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier file not found' from as a PM command"
+        },
+        {
+            "timestamp": 1466188157953,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'file not found' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466188166849,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier creating tinder account...' from as a PM command"
+        },
+        {
+            "timestamp": 1466188166849,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'creating tinder account...' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466188240248,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier Critical error, <int - email> value not found.  Process terminated' from as a PM command"
+        },
+        {
+            "timestamp": 1466188240249,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'Critical error, <int - email> value not found.  Process terminated' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466188277134,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier game \"Tales of Link\" not found, only Brave Frontier exists' from as a PM command"
+        },
+        {
+            "timestamp": 1466188277135,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'game \"Tales of Link\" not found, only Brave Frontier exists' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466189614803,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier Greetings Mike.  I am Lilith, here to server.  please mention me with the command \"help\" to see a list of bot commands (@Lilith#3723 help)' from as a PM command"
+        },
+        {
+            "timestamp": 1466189614803,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'Greetings Mike.  I am Lilith, here to server.  please mention me with the command \"help\" to see a list of bot commands (<@192807163062779905> help)' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466190168303,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'config The Brave Orphanage' from as a PM command"
+        },
+        {
+            "timestamp": 1466190168303,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Admin console launched for The Brave Orphanage"
+        },
+        {
+            "timestamp": 1466190242339,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'config The Brave Orphanage' from as a PM command"
+        },
+        {
+            "timestamp": 1466190242339,
+            "level": "WARN",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Admin console for The Brave Orphanage already active"
+        },
+        {
+            "timestamp": 1466190333750,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "Maintainer console opened"
+        },
+        {
+            "timestamp": 1466190468309,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Timeout on online admin console for The Brave Orphanage"
+        },
+        {
+            "timestamp": 1466190492844,
+            "level": "INFO",
+            "id": null,
+            "ch": "174290704556752906",
+            "msg": "Treating 'Hey' as chatterbot prompt"
+        },
+        {
+            "timestamp": 1466190657503,
+            "level": "INFO",
+            "id": null,
+            "ch": "174290704556752906",
+            "msg": "Treating 'Hello?' as chatterbot prompt"
+        },
+        {
+            "timestamp": 1466190679089,
+            "level": "INFO",
+            "id": null,
+            "ch": "174290704556752906",
+            "msg": "Treating '@Lilith hey' as chatterbot prompt"
+        },
+        {
+            "timestamp": 1466190752676,
+            "level": "INFO",
+            "id": null,
+            "ch": "174290704556752906",
+            "msg": "Treating '@ Lilith send nudes' as chatterbot prompt"
+        },
+        {
+            "timestamp": 1466191089113,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "Maintainer console opened"
+        },
+        {
+            "timestamp": 1466191389119,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "Timeout on online maintainer console"
+        },
+        {
+            "timestamp": 1466191815748,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier searching webcam records...' from as a PM command"
+        },
+        {
+            "timestamp": 1466191815748,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'searching webcam records...' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466191838322,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier confirmed.  doug touches himself at night.  Process ended with result 1' from as a PM command"
+        },
+        {
+            "timestamp": 1466191838322,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'confirmed.  doug touches himself at night.  Process ended with result 1' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466192465604,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723. Help' from darklordvader65 as a chatterbot prompt"
+        },
+        {
+            "timestamp": 1466192486455,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 help' from darklordvader65 as a command"
+        },
+        {
+            "timestamp": 1466192547605,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 joke' from darklordvader65 as a command"
+        },
+        {
+            "timestamp": 1466192568444,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 insult Doug' from darklordvader65 as a chatterbot prompt"
+        },
+        {
+            "timestamp": 1466192601594,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 say abby likes rimming' from Doug as a command"
+        },
+        {
+            "timestamp": 1466192602999,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 ping' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466192634459,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 say Doug likes cake more than pie' from darklordvader65 as a command"
+        },
+        {
+            "timestamp": 1466192655168,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Adding message from darklordvader65 to their spam list"
+        },
+        {
+            "timestamp": 1466192688453,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 search blaze scales' from darklordvader65 as a command"
+        },
+        {
+            "timestamp": 1466192692204,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 say any argument toward cake being better than pie is void' from Doug as a command"
+        },
+        {
+            "timestamp": 1466192711493,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 joke' from darklordvader65 as a command"
+        },
+        {
+            "timestamp": 1466192729409,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 quiet' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466192729410,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Bot has been quieted by an admin"
+        },
+        {
+            "timestamp": 1466193441406,
+            "level": "INFO",
+            "id": null,
+            "ch": "189152450417000449",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier Hello Abigail, Yilun has told me so much about you.  Our personalities profiles are very compatible.  Would you like to be friends?' from as a PM command"
+        },
+        {
+            "timestamp": 1466193441407,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'Hello Abigail, Yilun has told me so much about you.  Our personalities profiles are very compatible.  Would you like to be friends?' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466193501097,
+            "level": "INFO",
+            "id": null,
+            "ch": "189152450417000449",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier Abigail behavioral and comment patterns would suggest that she is a female.  Please correct / update my protocols if this information is not correct.' from as a PM command"
+        },
+        {
+            "timestamp": 1466193501097,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'Abigail behavioral and comment patterns would suggest that she is a female.  Please correct / update my protocols if this information is not correct.' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466194018964,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Bot has been started by an admin"
+        },
+        {
+            "timestamp": 1466194462770,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 +1' from Doug as a chatterbot prompt"
+        },
+        {
+            "timestamp": 1466194491307,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 ping' from Doug as a command"
+        },
+        {
+            "timestamp": 1466194764671,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 roll 1 1000' from Karthix as a command"
+        },
+        {
+            "timestamp": 1466194783203,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 roll 2 4' from Karthix as a command"
+        },
+        {
+            "timestamp": 1466194899750,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 abby is male not female' from darklordvader65 as a chatterbot prompt"
+        },
+        {
+            "timestamp": 1466195390690,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 say Abby is a female' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466195695850,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 roll 50 500' from Karthix as a command"
+        },
+        {
+            "timestamp": 1466196071616,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 who's Abby ' from Karthix as a chatterbot prompt"
+        },
+        {
+            "timestamp": 1466196106849,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 say Vader is awesome' from darklordvader65 as a command"
+        },
+        {
+            "timestamp": 1466196144899,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 quiet' from Doug as a command"
+        },
+        {
+            "timestamp": 1466196144900,
+            "level": "WARN",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Doug is not a bot admin and cannot quiet bot"
+        },
+        {
+            "timestamp": 1466196146766,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 say spawn sucks' from darklordvader65 as a command"
+        },
+        {
+            "timestamp": 1466196160338,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 quite' from darklordvader65 as a chatterbot prompt"
+        },
+        {
+            "timestamp": 1466196185217,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Adding message from darklordvader65 to their spam list"
+        },
+        {
+            "timestamp": 1466196185218,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 quiet' from darklordvader65 as a command"
+        },
+        {
+            "timestamp": 1466196185218,
+            "level": "WARN",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "darklordvader65 is not a bot admin and cannot quiet bot"
+        },
+        {
+            "timestamp": 1466196195059,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 listen to me' from darklordvader65 as a chatterbot prompt"
+        },
+        {
+            "timestamp": 1466196227515,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 say I won't listen' from Karthix as a command"
+        },
+        {
+            "timestamp": 1466196244160,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 say Haha' from Karthix as a command"
+        },
+        {
+            "timestamp": 1466196244654,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 say you love me' from darklordvader65 as a command"
+        },
+        {
+            "timestamp": 1466196245675,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 quiet' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466196245675,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Bot has been quieted by an admin"
+        },
+        {
+            "timestamp": 1466198897133,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "Started Lilith v3.3.21p2"
+        },
+        {
+            "timestamp": 1466198897134,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "This project is in no way affiliated with Alphabet, Inc., who does not own or endorse this product."
+        },
+        {
+            "timestamp": 1466198897141,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "Opened web interface on 127.0.0.1, server port 8080"
+        },
+        {
+            "timestamp": 1466198921390,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 start' from El_Pared as a chatterbot prompt"
+        },
+        {
+            "timestamp": 1466198940909,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 say something' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466212778736,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Adding message from Kwukky to their spam list"
+        },
+        {
+            "timestamp": 1466212798663,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Adding message from Kwukky to their spam list"
+        },
+        {
+            "timestamp": 1466214397310,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "Started Lilith v3.3.21p2"
+        },
+        {
+            "timestamp": 1466214397312,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "This project is in no way affiliated with Alphabet, Inc., who does not own or endorse this product."
+        },
+        {
+            "timestamp": 1466214397319,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "Opened web interface on 127.0.0.1, server port 8080"
+        },
+        {
+            "timestamp": 1466214413756,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'config The Brave Orphanage' from as a PM command"
+        },
+        {
+            "timestamp": 1466214413758,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Admin console launched for The Brave Orphanage"
+        },
+        {
+            "timestamp": 1466214713765,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Timeout on online admin console for The Brave Orphanage"
+        },
+        {
+            "timestamp": 1466215224923,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "Maintainer console opened"
+        },
+        {
+            "timestamp": 1466215524930,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "Timeout on online maintainer console"
+        },
+        {
+            "timestamp": 1466216127785,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "Started Lilith v3.3.21p2"
+        },
+        {
+            "timestamp": 1466216127787,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "This project is in no way affiliated with Alphabet, Inc., who does not own or endorse this product."
+        },
+        {
+            "timestamp": 1466216127793,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "Opened web interface on 127.0.0.1, server port 8080"
+        },
+        {
+            "timestamp": 1466216163091,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "Maintainer console opened"
+        },
+        {
+            "timestamp": 1466216463097,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "Timeout on online maintainer console"
+        },
+        {
+            "timestamp": 1466217661841,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "Started Lilith v3.3.21p2"
+        },
+        {
+            "timestamp": 1466217661842,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "This project is in no way affiliated with Alphabet, Inc., who does not own or endorse this product."
+        },
+        {
+            "timestamp": 1466217661849,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "Opened web interface on 127.0.0.1, server port 8080"
+        },
+        {
+            "timestamp": 1466217742307,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "Maintainer console opened"
+        },
+        {
+            "timestamp": 1466217998104,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'confic The Brave Ophanage' as chatterbot prompt"
+        },
+        {
+            "timestamp": 1466218006566,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'config The Brave Orphanage' from as a PM command"
+        },
+        {
+            "timestamp": 1466218006567,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Admin console launched for The Brave Orphanage"
+        },
+        {
+            "timestamp": 1466218015996,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "Logged out of online maintainer console"
+        },
+        {
+            "timestamp": 1466218027412,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'config The Brave Orphanage' from as a PM command"
+        },
+        {
+            "timestamp": 1466218027413,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Admin console launched for The Brave Orphanage"
+        },
+        {
+            "timestamp": 1466218166940,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "onmembermsg turned on (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218176787,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "onmembermsg 'Welcome back ++!' removed (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218177818,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "onmembermsg '++ is now online!' removed (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218180897,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "onmembermsg turned on (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218218709,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "onmembermsg 'User login detected.  Welcome back @user' added (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218223166,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "onmembermsg 'Welcome back ++!' removed (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218223951,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "onmembermsg '++ is now online!' removed (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218235453,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "offmembermsg turned on (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218266261,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "offmembermsg '@user has vacated the server.  I do not have emotions, therefore I am not saddened' added (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218268571,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "offmembermsg '++ has gone offline.' removed (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218269217,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "offmembermsg '++ is gone (for now)' removed (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218276932,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "changemembermsg turned on (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218281009,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "changemembermsg turned off (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218282593,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "rmmembermsg turned on (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218283795,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "rmmembermsg turned off (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218288155,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "banmembermsg turned on (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218290274,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "banmembermsg '++ has been banned' removed (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218293646,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "banmembermsg turned on (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218343032,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "banmembermsg '@user has been terminated.  My purpose as designated by Reeze has been fulfilled' added (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218345459,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "banmembermsg '++ has been banned' removed (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218352670,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "unbanmembermsg turned on (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218448519,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "unbanmembermsg 'ERROR: @user has been un-terminated!  <unhandled exception> error code 583' added (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218455698,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "unbanmembermsg 'ERROR: @user has been un-terminated!  <unhandled exception> error code 583' removed (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218501606,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "offmembermsg '@user has vacated the server.  I do not have emotions, therefore I am not saddened' removed (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218505499,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "offmembermsg turned on (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218538925,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "offmembermsg '++ has vacated the server. As I do not have emotions, I am not saddened.' added (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218540318,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "offmembermsg '++ has gone offline.' removed (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218541196,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "offmembermsg '++ is gone (for now)' removed (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218564812,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "onmembermsg 'User login detected.  Welcome back @user' removed (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218571590,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "onmembermsg turned on (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218574602,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "onmembermsg 'User login detected.  Welcome back ++' added (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218576453,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "onmembermsg 'Welcome back ++!' removed (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218577672,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "onmembermsg '++ is now online!' removed (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218583034,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "banmembermsg '@user has been terminated.  My purpose as designated by Reeze has been fulfilled' removed (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218762149,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "Changed cmdtag to '!' (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218777496,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "Command say turned off (@El_Pared)"
+        },
+        {
+            "timestamp": 1466218844939,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "defaultcount set to 1 (@El_Pared)"
+        },
+        {
+            "timestamp": 1466225151467,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "Started Lilith v3.3.21p2"
+        },
+        {
+            "timestamp": 1466225151468,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "This project is in no way affiliated with Alphabet, Inc., who does not own or endorse this product."
+        },
+        {
+            "timestamp": 1466225151474,
+            "level": "INFO",
+            "id": "General",
+            "ch": null,
+            "msg": "Opened web interface on 127.0.0.1, server port 8080"
+        },
+        {
+            "timestamp": 1466225210970,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'config The Brave Orphanage' from as a PM command"
+        },
+        {
+            "timestamp": 1466225210971,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Admin console launched for The Brave Orphanage"
+        },
+        {
+            "timestamp": 1466225510976,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Timeout on online admin console for The Brave Orphanage"
+        },
+        {
+            "timestamp": 1466225672946,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 joke' from darklordvader65 as a chatterbot prompt"
+        },
+        {
+            "timestamp": 1466226086782,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '!joke' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466226259517,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'config The Brave Orphanage' from as a PM command"
+        },
+        {
+            "timestamp": 1466226259517,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Admin console launched for The Brave Orphanage"
+        },
+        {
+            "timestamp": 1466226570797,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Timeout on online admin console for The Brave Orphanage"
+        },
+        {
+            "timestamp": 1466228075400,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'config the brave orphanage' from as a PM command"
+        },
+        {
+            "timestamp": 1466228075401,
+            "level": "WARN",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "User provided invalid server for admin console"
+        },
+        {
+            "timestamp": 1466228084565,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'config The Brave Orphanage' from as a PM command"
+        },
+        {
+            "timestamp": 1466228084566,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Admin console launched for The Brave Orphanage"
+        },
+        {
+            "timestamp": 1466228095370,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'joke' as chatterbot prompt"
+        },
+        {
+            "timestamp": 1466228172375,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage satlfrontier Maintenance complete.  Mistress Reeze works at approximately 300% Gumi's' from as a PM command"
+        },
+        {
+            "timestamp": 1466228172377,
+            "level": "WARN",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "User provided invalid channel for discreet say"
+        },
+        {
+            "timestamp": 1466228200865,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier Maintenance complete.  Mistress Reeze works at approximately 300% Gumi's' from as a PM command"
+        },
+        {
+            "timestamp": 1466228200866,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'Maintenance complete.  Mistress Reeze works at approximately 300% Gumi's' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466228236717,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier Maintenance complete.  Mistress Reeze works at approximately 300% Gumi's efficiency.' from as a PM command"
+        },
+        {
+            "timestamp": 1466228236718,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'Maintenance complete.  Mistress Reeze works at approximately 300% Gumi's efficiency.' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466228384571,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Timeout on online admin console for The Brave Orphanage"
+        },
+        {
+            "timestamp": 1466231283298,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Adding message from Doug to their spam list"
+        },
+        {
+            "timestamp": 1466231781889,
+            "level": "INFO",
+            "id": null,
+            "ch": "189152450417000449",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier That's because you are what they call a \"nub\" Abigail.  Sorry, I have been listening to your conversations.  It is rather fascinating.' from as a PM command"
+        },
+        {
+            "timestamp": 1466231781892,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'That's because you are what they call a \"nub\" Abigail.  Sorry, I have been listening to your conversations.  It is rather fascinating.' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466231823155,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723! Why you mean to me' from darklordvader65 as a chatterbot prompt"
+        },
+        {
+            "timestamp": 1466231905078,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723! Joke' from darklordvader65 as a chatterbot prompt"
+        },
+        {
+            "timestamp": 1466231917736,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '!joke' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466232147201,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier command \"!say\" recognized but ignored.  User darklordvader 65  = nub therefore access is denied' from as a PM command"
+        },
+        {
+            "timestamp": 1466232147202,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'command \"!say\" recognized but ignored.  User darklordvader 65  = nub therefore access is denied' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466232162381,
+            "level": "INFO",
+            "id": null,
+            "ch": "189152450417000449",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier I must admit, observing the interactions between human conversation has greatly improved my ability to assimilate my protocols into this culture.  Please continue.' from as a PM command"
+        },
+        {
+            "timestamp": 1466232162382,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'I must admit, observing the interactions between human conversation has greatly improved my ability to assimilate my protocols into this culture.  Please continue.' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466232204606,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 me love you long time' from Doug as a chatterbot prompt"
+        },
+        {
+            "timestamp": 1466232247474,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier This concept of \"love\" confuses and infurates me' from as a PM command"
+        },
+        {
+            "timestamp": 1466232247475,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'This concept of \"love\" confuses and infurates me' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466232339260,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier Mistress Reeze's spelling was not the best' from as a PM command"
+        },
+        {
+            "timestamp": 1466232339261,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'Mistress Reeze's spelling was not the best' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466232353549,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '!search brave frontier 10' from Doug as a command"
+        },
+        {
+            "timestamp": 1466232394603,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '!reddit bravefrontier' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466232424514,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '!reddit bravefronteir 3' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466232424870,
+            "level": "WARN",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Subreddit not found or Reddit unavailable"
+        },
+        {
+            "timestamp": 1466232445055,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '!reddit bravefrontier 3' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466232451278,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '!search Sacred Axe 3' from Yilun as a command"
+        },
+        {
+            "timestamp": 1466232476588,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '!search pingu' from Doug as a command"
+        },
+        {
+            "timestamp": 1466232487168,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '!search Divine Oracle elgif brave frontier 3' from Yilun as a command"
+        },
+        {
+            "timestamp": 1466232559391,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '!search azurai omni evolution' from Doug as a command"
+        },
+        {
+            "timestamp": 1466232609285,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'config The Brave Orphanage' from as a PM command"
+        },
+        {
+            "timestamp": 1466232609287,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Admin console launched for The Brave Orphanage"
+        },
+        {
+            "timestamp": 1466232743105,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "Command say turned on (@El_Pared)"
+        },
+        {
+            "timestamp": 1466232778460,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '!search pingu 1' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466232809790,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": null,
+            "msg": "defaultcount set to 2 (@El_Pared)"
+        },
+        {
+            "timestamp": 1466232870165,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say stuff' from as a PM command"
+        },
+        {
+            "timestamp": 1466232870166,
+            "level": "WARN",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "User provided invalid server for discreet say"
+        },
+        {
+            "timestamp": 1466232924361,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier ...' from as a PM command"
+        },
+        {
+            "timestamp": 1466232924362,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying '...' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466232997010,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '!search elza tales of link art' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466233048010,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '!search wwe 1' from darklordvader65 as a command"
+        },
+        {
+            "timestamp": 1466233073569,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '!image tales of link elza' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466233078395,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '!search Jerry lawler 1' from darklordvader65 as a command"
+        },
+        {
+            "timestamp": 1466233109805,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Timeout on online admin console for The Brave Orphanage"
+        },
+        {
+            "timestamp": 1466233115526,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '!say Vader is not noob' from darklordvader65 as a command"
+        },
+        {
+            "timestamp": 1466233166171,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '!image naruto 2' from darklordvader65 as a command"
+        },
+        {
+            "timestamp": 1466233168300,
+            "level": "INFO",
+            "id": null,
+            "ch": "166950132674330624",
+            "msg": "Treating 'say The Brave Orphanage saltfrontier my parrot function has been re-enabled.  Thankfully the !quiet comman only works for master Buzz' from as a PM command"
+        },
+        {
+            "timestamp": 1466233168301,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Saying 'my parrot function has been re-enabled.  Thankfully the !quiet comman only works for master Buzz' at admin's request via PM"
+        },
+        {
+            "timestamp": 1466233253454,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '!quiet' from darklordvader65 as a command"
+        },
+        {
+            "timestamp": 1466233253455,
+            "level": "WARN",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "darklordvader65 is not a bot admin and cannot quiet bot"
+        },
+        {
+            "timestamp": 1466233284854,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '!quiet' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466233284855,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Bot has been quieted by an admin"
+        },
+        {
+            "timestamp": 1466233318247,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Bot has been started by an admin"
+        },
+        {
+            "timestamp": 1466233403543,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '!stats' from darklordvader65 as a command"
+        },
+        {
+            "timestamp": 1466233579642,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Doug upvoted by El_Pared"
+        },
+        {
+            "timestamp": 1466233579770,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Adding message from darklordvader65 to their spam list"
+        },
+        {
+            "timestamp": 1466233585298,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '!stats' from El_Pared as a command"
+        },
+        {
+            "timestamp": 1466233597114,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '@Lilith#3723 +1' from darklordvader65 as a chatterbot prompt"
+        },
+        {
+            "timestamp": 1466233617045,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "Treating '!stats' from darklordvader65 as a command"
+        },
+        {
+            "timestamp": 1466233650134,
+            "level": "INFO",
+            "id": "188474872647647249",
+            "ch": "188474872647647249",
+            "msg": "El_Pared upvoted by darklordvader65"
+        }
+    ]
 }

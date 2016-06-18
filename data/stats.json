@@ -1,1 +1,238 @@
-{}
+{
+    "timestamp": 1466176682697,
+    "188474872647647249": {
+        "members": {
+            "142309986574270464": {
+                "messages": 116,
+                "active": 1466233165580,
+                "seen": 1466234726471,
+                "mentions": {
+                    "pm": false,
+                    "stream": [
+                        {
+                            "timestamp": 1466232286002,
+                            "author": "Yilun",
+                            "message": "@James#6203, see what you've been missing"
+                        }
+                    ]
+                },
+                "strikes": []
+            },
+            "166681804189728768": {
+                "messages": 0,
+                "active": 1466176913564,
+                "seen": 1466234572911,
+                "mentions": {
+                    "pm": false,
+                    "stream": []
+                },
+                "strikes": []
+            },
+            "166950132674330624": {
+                "messages": 288,
+                "active": 1466233753107,
+                "seen": 1466225829465,
+                "mentions": {
+                    "pm": false,
+                    "stream": [
+                        {
+                            "timestamp": 1466233650134,
+                            "author": "darklordvader65",
+                            "message": "@El_Pared#3063 +1"
+                        }
+                    ]
+                },
+                "strikes": []
+            },
+            "174290704556752906": {
+                "messages": 19,
+                "active": 1466192066690,
+                "seen": 1466214638128,
+                "mentions": {
+                    "pm": false,
+                    "stream": []
+                },
+                "strikes": []
+            },
+            "185964158796169216": {
+                "messages": 0,
+                "active": 1466176913564,
+                "seen": 1466176913564,
+                "mentions": {
+                    "pm": false,
+                    "stream": []
+                },
+                "strikes": []
+            },
+            "186307398317768704": {
+                "messages": 0,
+                "active": 1466176913564,
+                "seen": 1466176913564,
+                "mentions": {
+                    "pm": false,
+                    "stream": []
+                },
+                "strikes": []
+            },
+            "188805103338258432": {
+                "messages": 3,
+                "active": 1466228348529,
+                "seen": 1466234168959,
+                "mentions": {
+                    "pm": false,
+                    "stream": []
+                },
+                "strikes": []
+            },
+            "188806524582232064": {
+                "messages": 328,
+                "active": 1466233724676,
+                "seen": 1466234357279,
+                "mentions": {
+                    "pm": false,
+                    "stream": [
+                        {
+                            "timestamp": 1466178283621,
+                            "author": "Buzz Killington",
+                            "message": "she seems to recognize your commands tho @Doug#7260"
+                        },
+                        {
+                            "timestamp": 1466194328826,
+                            "author": "Doug",
+                            "message": "@Doug#7260 +1"
+                        },
+                        {
+                            "timestamp": 1466225657038,
+                            "author": "darklordvader65",
+                            "message": "@Doug#7260 why dammit"
+                        },
+                        {
+                            "timestamp": 1466233562730,
+                            "author": "darklordvader65",
+                            "message": "@Doug#7260 \"^\""
+                        },
+                        {
+                            "timestamp": 1466233579641,
+                            "author": "Buzz Killington",
+                            "message": "@Doug#7260 ^"
+                        },
+                        {
+                            "timestamp": 1466233579772,
+                            "author": "darklordvader65",
+                            "message": "@Doug#7260 \"+1\""
+                        }
+                    ]
+                },
+                "strikes": []
+            },
+            "189067756946194433": {
+                "messages": 15,
+                "active": 1466216527973,
+                "seen": 1466216640304,
+                "mentions": {
+                    "pm": false,
+                    "stream": []
+                },
+                "strikes": []
+            },
+            "189152450417000449": {
+                "messages": 331,
+                "active": 1466232518689,
+                "seen": 1466232523014,
+                "mentions": {
+                    "pm": false,
+                    "stream": [
+                        {
+                            "timestamp": 1466184961256,
+                            "author": "Buzz Killington",
+                            "message": "@Yilun#7114 up"
+                        },
+                        {
+                            "timestamp": 1466187572046,
+                            "author": "Buzz Killington",
+                            "message": "@Yilun#7114 yeah but at least I can shut her up if she gets annoying"
+                        }
+                    ]
+                },
+                "strikes": []
+            },
+            "189188019239124993": {
+                "messages": 87,
+                "active": 1466233670056,
+                "seen": 1466233772685,
+                "mentions": {
+                    "pm": false,
+                    "stream": [
+                        {
+                            "timestamp": 1466233670056,
+                            "author": "darklordvader65",
+                            "message": "@darklordvader65#3038 guild"
+                        }
+                    ]
+                },
+                "strikes": []
+            },
+            "189218479495184385": {
+                "messages": 25,
+                "active": 1466218229988,
+                "seen": 1466225405356,
+                "mentions": {
+                    "pm": false,
+                    "stream": []
+                },
+                "strikes": []
+            },
+            "189378606936489984": {
+                "messages": 8,
+                "active": 1466188223960,
+                "seen": 1466227501047,
+                "mentions": {
+                    "pm": false,
+                    "stream": []
+                },
+                "strikes": []
+            },
+            "190574592480247808": {
+                "messages": 0,
+                "active": 1466176913564,
+                "seen": 1466176913564,
+                "mentions": {
+                    "pm": false,
+                    "stream": []
+                },
+                "strikes": []
+            },
+            "191619621630115840": {
+                "messages": 0,
+                "active": 1466176913564,
+                "seen": 1466176913564,
+                "mentions": {
+                    "pm": false,
+                    "stream": []
+                },
+                "strikes": []
+            }
+        },
+        "games": {
+            "The Binding of Isaac: Rebirth": 0.7999999999999999
+        },
+        "commands": {
+            "youtube": 1,
+            "reddit": 5,
+            "roll": 11,
+            "remindme": 1,
+            "say": 17,
+            "time": 1,
+            "convert": 5,
+            "about": 1,
+            "search": 11,
+            "joke": 4,
+            "image": 2
+        },
+        "botOn": {
+            "188474872647647249": true,
+            "188474872647647253": true,
+            "188784574573051907": true
+        }
+    }
+}
